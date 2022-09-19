@@ -13,7 +13,7 @@ st.sidebar.title("Whatsapp Chat Sentiment Analyzer")
 
 # VADER : is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments.
 nltk.download('vader_lexicon')
-
+nltk.download('wordnet')
 # File upload button
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 

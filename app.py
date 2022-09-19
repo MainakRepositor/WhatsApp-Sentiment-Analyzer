@@ -9,7 +9,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # App title
-st.sidebar.title("Whatsapp Chat  Sentiment Analyzer")
+st.sidebar.title("Whatsapp Chat Sentiment Analyzer")
 
 # VADER : is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments.
 nltk.download('vader_lexicon')

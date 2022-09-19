@@ -1,5 +1,5 @@
 
-# Whatsapp chat sentiment analyzer
+# Whatsapp Chat Analyzer
 
 Features
 - Monthly Activity map(Positive, Neutral, Negative)

@@ -58,15 +58,6 @@ streamlit run app.py
 ![app · Streamlit - Google Chrome 28-04-2022 20_31_23](https://user-images.githubusercontent.com/72250606/165783597-6f497c0f-01ef-42a5-be8a-5a67c7c2bc1f.png)
 ![app · Streamlit - Google Chrome 28-04-2022 20_31_34](https://user-images.githubusercontent.com/72250606/165783601-b7d553f4-8e7d-4ed0-9a2a-56d58e31cbcf.png)
 
-## Demo video
 
-[Whatsapp chat sentiment analyzer](https://www.youtube.com/watch?v=XCLCOA9BXVA)
  
-## Author
-
-- [Udhay Brahmi](https://github.com/Udhay-Brahmi)
-
-## Support
-
-For support, email udhaybrahmi786@gmail.com or udhaybrahmi@gmail.com.
 
